@@ -1,1 +1,1 @@
-mkdir c:\users\public\aaaaa
+cmd.exe /c mkdir c:\users\public\aaaaa
